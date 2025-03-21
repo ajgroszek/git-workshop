@@ -1,0 +1,13 @@
+Summary of  git workshop
+------------------------
+
+1. "Forked" Ben's repository to copy it to my github account.
+2. "Cloned" the remote version of my repository to my local machine.
+3. Made some edits to the local repository (added files etc.)
+4. "Staged" and then "committed" these changes to the repository.
+5. "Pushed" these changes back to the remote repository. This required a sign-in code (if doing from command line, this needs an ssh key pair)
+6. Edited a file remotely.
+7. "Fetched" the remote changes, downloading them to my local repository.
+8. Created a new branch, and moved to it.
+9. Created a new file while in the new branch.
+10. Tested moving back to "main" branch, and seeing that the new file disappeared from the folder in explorer.
