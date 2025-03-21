@@ -11,3 +11,4 @@ Summary of  git workshop
 8. Created a new branch, and moved to it.
 9. Created a new file while in the new branch.
 10. Tested moving back to "main" branch, and seeing that the new file disappeared from the folder in explorer.
+11. Tested "pushing" branches. This must be done separately for each branch.
